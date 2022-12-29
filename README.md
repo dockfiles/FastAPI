@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/fastapi)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209975418-96d56510-fb31-4961-8007-c2de45d7fcd2.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/fastapi)
 
 ### Python/FastAPI application
 
@@ -19,7 +19,7 @@ Project structure:
 
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   api:
